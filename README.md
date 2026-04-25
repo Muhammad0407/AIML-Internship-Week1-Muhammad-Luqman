@@ -1,6 +1,6 @@
 # 📊 AI/ML Internship Project — Week 1: Python Foundations & Data Analysis
 
-## 👨‍🎓 Author
+## 👨‍🎓 Author :** [Muhammad Luqman]
 AI/ML Internship Project (Week 1 Submission)
 
 ---
